@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name     PW CAS AUTOLOGIN
+// @name     PW CAS Autologin
 // @description     Go through annoying 'Ukryj identyfikator' and autoclick 'Zaloguj'
 // @version  1
 // @grant    none
