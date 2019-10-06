@@ -4,6 +4,7 @@
 // @version  1.1
 // @grant    none
 // @include  https://cas.usos.pw.edu.pl/cas/login*
+// @include  https://cas.usos.pw.edu.pl/cas//login*
 // ==/UserScript==
 
 document.getElementById("vis").checked = false;
